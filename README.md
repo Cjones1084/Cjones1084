@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Christopher
 
 🎓 **Cybersecurity & Networking Graduate | CompTIA A+ Certified | Security-Focused IT Professional**
 
