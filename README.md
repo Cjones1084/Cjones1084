@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Christopher
 
-🎓 **Cybersecurity & Networking Graduate | CompTIA A+ Certified | Security-Focused IT Professional**
+<a href="www.linkedin.com/in/christopher-jones-10280b348><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 
 ---
 
@@ -27,7 +29,7 @@ I am a  graduate with a **Bachelor’s degree in Cybersecurity Technology** and 
 ---
 
 ## 🧪 Technical Skills & Qualifications
-- 🏅 **CompTIA A+ Certified**
+- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 - 💻 Programming: **Python, SQL**
 - 🖥️ Operating Systems: **Linux, Windows**
 - 🌐 Networking & Security:
