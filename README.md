@@ -44,6 +44,11 @@ I am a  graduate with a **Bachelor’s degree in Cybersecurity Technology** and 
 
 ---
 
+Projects
+- <a href="https://github.com/Cjones1084/Virtual-Lab">Create Virtual Lab</a>
+
+---
+
 ## 🏆 Leadership & Ethics
 - 🦅 **Eagle Scout**, Boy Scouts of America  
   Demonstrated leadership, integrity, ethics, and community service
