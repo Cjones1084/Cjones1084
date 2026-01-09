@@ -10,7 +10,7 @@ Motivated and detail-oriented cybersecurity graduate seeking an entry-level role
 ---
 
 ## 🛡️ Professional Summary
-I am a recent graduate with a **Bachelor’s degree in Cybersecurity Technology** and a strong foundation in **network security, data protection, and risk management**. I have hands-on experience with vulnerability testing, security tools, system auditing, and incident response through academic labs and real-world problem-solving environments. Known for attention to detail, leadership, and reliability, I bring both technical and operational experience from high-pressure environments.
+I am a  graduate with a **Bachelor’s degree in Cybersecurity Technology** and a strong foundation in **network security, data protection, and risk management**. I have hands-on experience with vulnerability testing, security tools, system auditing, and incident response through academic labs and real-world problem-solving environments. Known for attention to detail, leadership, and reliability, I bring both technical and operational experience from high-pressure environments.
 
 ---
 
@@ -23,13 +23,6 @@ I am a recent graduate with a **Bachelor’s degree in Cybersecurity Technology*
 
 **Cyber Threat Hunting Certificate** — *June 2024*  
 - GPA: **4.0** | Dean’s List
-
-**A.S. General Studies (Computer Studies Focus)** — *August 2022*  
-- GPA: **4.0**
-- National Society of Collegiate Scholars
-
-**Associate of Science in Criminal Justice** — *December 2021*  
-Burlington County College, NJ
 
 ---
 
