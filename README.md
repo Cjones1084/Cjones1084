@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher
 
-<a href="www.linkedin.com/in/christopher-jones-10280b348><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/christopher-jones-10280b348"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
@@ -13,18 +13,6 @@ Motivated and detail-oriented cybersecurity graduate seeking an entry-level role
 
 ## 🛡️ Professional Summary
 I am a  graduate with a **Bachelor’s degree in Cybersecurity Technology** and a strong foundation in **network security, data protection, and risk management**. I have hands-on experience with vulnerability testing, security tools, system auditing, and incident response through academic labs and real-world problem-solving environments. Known for attention to detail, leadership, and reliability, I bring both technical and operational experience from high-pressure environments.
-
----
-
-## 🎓 Education
-**University of Maryland Global Campus — Adelphi, MD**  
-**B.S. Cybersecurity Technology** — *December 2024*  
-- GPA: **4.0** | **Summa Cum Laude**
-- Dean’s List
-- National Society of Collegiate Scholars
-
-**Cyber Threat Hunting Certificate** — *June 2024*  
-- GPA: **4.0** | Dean’s List
 
 ---
 
@@ -48,13 +36,6 @@ I am a  graduate with a **Bachelor’s degree in Cybersecurity Technology** and 
 
 Projects
 - <a href="https://github.com/Cjones1084/Virtual-Lab">Create Virtual Lab</a>
-
----
-
-## 🏆 Leadership & Ethics
-- 🦅 **Eagle Scout**, Boy Scouts of America  
-  Demonstrated leadership, integrity, ethics, and community service
-- Proven history of Excellence in training subordinates and coworkers, and leading teams to meet daily metric goals.
 
 ---
 
